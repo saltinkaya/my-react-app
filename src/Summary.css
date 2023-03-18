@@ -1,0 +1,10 @@
+.summary{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.summary * {
+    margin: 10px;
+}

@@ -1,0 +1,10 @@
+.edits {
+    display: flex;
+    margin: 5px;
+    align-items: center;
+}
+
+button {
+    margin: 5px;
+    color:blue;
+}
